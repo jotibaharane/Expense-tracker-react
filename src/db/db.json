@@ -1,0 +1,46 @@
+{
+  "Expense": [
+    {
+      "id": 1,
+      "Title": "Buy a book",
+      "Amount": 20,
+      "date": "2021,3,28"
+    },
+    {
+      "id": 2,
+      "Title": "Buy a milk",
+      "Amount": 5,
+      "date": "2013,4,30"
+    },
+    {
+      "id": 3,
+      "Title": "Book a flight ticket",
+      "Amount": 225,
+      "date": "2017,1,15"
+    },
+    {
+      "Title": "jotiba",
+      "Amount": "250",
+      "date": "2022-03-24T00:00:00.000Z",
+      "id": "0.12368415611035011"
+    },
+    {
+      "Title": "harane",
+      "Amount": "123",
+      "date": "2022-03-11T00:00:00.000Z",
+      "id": "0.8002731037705684"
+    },
+    {
+      "Title": "jhdkjhd",
+      "Amount": "21321",
+      "date": "2022-03-22T00:00:00.000Z",
+      "id": "0.567421846775171"
+    },
+    {
+      "Title": "sdsdasd",
+      "Amount": "121",
+      "date": "2022-03-18T00:00:00.000Z",
+      "id": "0.2953693111846605"
+    }
+  ]
+}
